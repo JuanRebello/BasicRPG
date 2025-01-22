@@ -29,15 +29,6 @@ Este jogo foi inicialmente desenvolvido com base em um projeto do freeCodeCamp e
 
 3. Divirta-se explorando o mundo do BasicRPG!
 
-# Exemplo de Uso
-
-  1. Selecione o PCAN.
-  2. Em seguida, clique em adicionar volume.
-  3. Escolha os volumes que desejar inserir no manifesto e clique em salvar selecionados.
-  4. Escolha a Aeronave.
-  5. Selecione o número de cópias que deseja imprimir
-  6. clique em imprimir
-
 # Contribuições
 
   1. Fazer um fork do repositório.
